@@ -9,5 +9,6 @@ k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
 grafana/grafana:8.5.5
 elasticsearch:7.7.1
 image: kibana:7.7.1
+flink:1.19.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
