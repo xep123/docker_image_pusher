@@ -12,9 +12,9 @@
 #flink:1.19.1
 #filebeat:7.7.1 
 
-bitnami/zookeeper:3.9.2
-bitnami/kafka:3.3
-provectuslabs/kafka-ui:v0.7.2
+#bitnami/zookeeper:3.9.2
+bitnami/kafka:3.6.0
+#provectuslabs/kafka-ui:v0.7.2
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
