@@ -14,9 +14,14 @@
 #bitnami/zookeeper:3.9.2
 #bitnami/kafka:3.6.0
 #provectuslabs/kafka-ui:v0.7.2
+#apache/skywalking-oap-server:8.9.1
+#apache/skywalking-ui:8.9.1
 
-apache/skywalking-oap-server:8.9.1
-apache/skywalking-ui:8.9.1
+prom/prometheus:v2.52.0
+prom/alertmanager:v0.27.0
+grafana/grafana:11.0.0
+prom/node-exporter:v1.8.1
+google/cadvisor:v0.33.0
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
