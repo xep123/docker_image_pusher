@@ -23,7 +23,7 @@
 #prom/node-exporter:v1.8.1
 #google/cadvisor:v0.33.0
 
-flink:1.17.2-java8
+flink:1.17.2
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
