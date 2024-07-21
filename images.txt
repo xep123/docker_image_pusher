@@ -19,9 +19,11 @@
 
 #prom/prometheus:v2.52.0
 #prom/alertmanager:v0.27.0
-grafana/grafana:9.5.20
+#grafana/grafana:9.5.20
 #prom/node-exporter:v1.8.1
 #google/cadvisor:v0.33.0
+
+flink:1.17.2-java8
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
