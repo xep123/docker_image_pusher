@@ -34,6 +34,5 @@
 #busybox:1.36
 #apache/doris:1.2.2-fe-x86_64
 #apache/doris:1.2.2-be-x86_64
-apache/doris:1.2.2-be-x86_64-noavx2
-apache/doris:2.0.0_alpha-be-x86_64-noavx2
-
+#apache/doris:1.2.2-be-x86_64-noavx2
+apache/doris:doris-all-in-one-2.1.0
