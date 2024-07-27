@@ -29,5 +29,6 @@
 #openjdk:8-jdk-alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
- apache/doris:2.0.0_alpha-be-x86_64
- apache/doris:2.0.0_alpha-fe-x86_64
+ #apache/doris:2.0.0_alpha-be-x86_64
+ #apache/doris:2.0.0_alpha-fe-x86_64
+busybox:1.36
