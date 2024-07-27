@@ -26,7 +26,9 @@
 #redis:5.0.4
 #mysql:5.7
 
-rabbitmq:3.13.6
+#rabbitmq:3.13.6
+
+openjdk:8-jdk-alpine
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
