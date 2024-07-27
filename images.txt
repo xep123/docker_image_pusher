@@ -23,9 +23,10 @@
 #google/cadvisor:v0.33.0
 #flink:1.17.2
 #tdengine/tdengine:3.3.2.0
+#redis:5.0.4
+#mysql:5.7
 
-redis:5.0.4
-mysql:5.7
+rabbitmq:3.13.6
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
