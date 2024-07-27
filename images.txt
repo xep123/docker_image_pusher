@@ -27,6 +27,7 @@
 #mysql:5.7
 #rabbitmq:3.13.6
 #openjdk:8-jdk-alpine
-apache/doris:2.0.3-be-x86_64
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+ apache/doris:2.0.0_alpha-be-x86_64
+ apache/doris:2.0.0_alpha-fe-x86_64
