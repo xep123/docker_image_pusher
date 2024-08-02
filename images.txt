@@ -36,4 +36,5 @@
 #apache/doris:1.2.2-be-x86_64
 #apache/doris:1.2.2-be-x86_64-noavx2
 #apache/doris:doris-all-in-one-2.1.0
-openjdk:8u342-jdk
+#openjdk:8u342-jdk
+openjdk:8u272-jdk
