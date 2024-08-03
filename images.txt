@@ -39,6 +39,6 @@
 #openjdk:8u342-jdk
 #openjdk:8u272-jdk
 #flink:1.18.0
-apache/doris:1.2.1-fe-x86_64
-apache/doris:1.2.1-be-x86_64
-
+#apache/doris:1.2.1-fe-x86_64
+#apache/doris:1.2.1-be-x86_64
+yagagagaga/doris-standalone:2.1.5
