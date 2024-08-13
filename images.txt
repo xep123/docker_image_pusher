@@ -45,5 +45,8 @@
 #apache/doris:1.2.1-be-x86_64
 #yagagagaga/doris-standalone:2.1.5
 
- apache/doris:2.0.3-be-x86_64
- apache/doris:2.0.3-fe-x86_64
+ #apache/doris:2.0.3-be-x86_64
+ #apache/doris:2.0.3-fe-x86_64
+
+wurstmeister/kafka:2.13-2.8.1
+wurstmeister/zookeeper:3.4.6
