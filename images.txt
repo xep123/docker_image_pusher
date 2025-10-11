@@ -1,7 +1,9 @@
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/grafana:8.5.5
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/
 
-tdengine/tdengine:3.3.3.0
+apache/doris:fe-4.0.0
+apache/doris:be-4.0.0
+#tdengine/tdengine:3.3.3.0
 #awaragi/prometheus-mssql-exporter
 #tianon/mssql-server:2016
 #apache/doris:fe-2.1.9
