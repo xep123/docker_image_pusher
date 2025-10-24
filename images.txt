@@ -1,7 +1,7 @@
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/grafana:8.5.5
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/
-
-nginx:1.26.3
+mobz/elasticsearch-head:5-alpine
+#nginx:1.26.3
 #apache/doris:fe-2.1.11
 #apache/doris:be-2.1.11
 #apache/doris:fe-4.0.0
