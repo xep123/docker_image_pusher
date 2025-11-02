@@ -1,6 +1,8 @@
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/grafana:8.5.5
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/
-mobz/elasticsearch-head:5-alpine
+
+apache/dolphinscheduler-standalone-server:3.3.0-alpha
+#mobz/elasticsearch-head:5-alpine
 #nginx:1.26.3
 #apache/doris:fe-2.1.11
 #apache/doris:be-2.1.11
