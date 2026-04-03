@@ -1,13 +1,13 @@
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/grafana:8.5.5
 # docker pull registry.cn-shenzhen.aliyuncs.com/xepimages/
 
-apacherocketmq/rocketmq-dashboard:2.1.0
-apache/rocketmq:5.2.0
-rustfs/rustfs:1.0.0-alpha.72
-quay.io/coreos/etcd:v3.5.18
+#apacherocketmq/rocketmq-dashboard:2.1.0
+#apache/rocketmq:5.2.0
+#rustfs/rustfs:1.0.0-alpha.72
+#quay.io/coreos/etcd:v3.5.18
 milvusdb/milvus:v2.6.6
 zilliz/attu:v2.6.3
-postgres:16-alpine
+#postgres:16-alpine
 
 #apache/dolphinscheduler-standalone-server:3.3.2
 #apache/dolphinscheduler-standalone-server:3.3.0-alpha
